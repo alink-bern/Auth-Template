@@ -1,0 +1,33 @@
+# .NET and Visual Studio
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Entity Framework Core Migrations
+Migrations/
